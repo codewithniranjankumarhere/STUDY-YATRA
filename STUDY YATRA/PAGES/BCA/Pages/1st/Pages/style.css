@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+	list-style: none;
+	text-decoration: none;
+	scroll-behavior: smooth;
+
+	outline: none;
+}
+:root{
+	--bg-color: #ffffff;
+	--second-color: #f54300;
+	--main-color: rgb(1, 181, 252);
+	--text-color: #130849;
+	--other-color: #999fb9;
+	--big-font: 4.8rem;
+	--h2-font: 3.2rem;
+	--p-font: 1rem;
+}
+
+.dark-mode {
+    --bg-color: #0b061f;
+    --text-color: #fdfdfd;
+    --shadow-color: rgba(0,0,0, .7);
+}
+
+body{
+	color: var(--text-color);
+	background: var(--bg-color);
+}
+
+span {
+    color: var(--main-color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================================Start Courses Section=============================== */
+
+/* ================================End Courses Section=============================== */
